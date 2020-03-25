@@ -34,3 +34,29 @@ Dica: Layout de aplições mobile -> figma.com
     expo: faz apps para android e IOS, tem diversas libs prontas para ambos os sistemas
 
 
+### Entendendo o React:
+    Abordagem SPA (single page application)
+
+### Projeto com React
+    npx create-react-app frontend
+    npm init react-app frontend
+    cd frontend && npm start
+
+#### Arquivo App.js
+    Trocar texto frontend/src/App.js em <p> colocar Hello World
+
+### React Native
+    expo: faz apps para android e IOS, tem diversas libs prontas para ambos os sistemas
+
+### Database knex / dir backend
+    npm install knex
+    npm install sqlite3
+    npx knex init
+    npx knex migrate:make create_ongs
+    npx knex migrate:latest
+    npx knex migrate:make create_incidents
+    npx knex migrate:latest
+
+
+### React frontend connect to backend
+    npm install axios
