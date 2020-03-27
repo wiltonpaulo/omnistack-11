@@ -56,3 +56,7 @@ Dica: Layout de aplições mobile -> figma.com
     npx knex migrate:latest
     npx knex migrate:make create_incidents
     npx knex migrate:latest
+
+
+### React frontend connect to backend
+    npm install axios
