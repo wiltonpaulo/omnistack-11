@@ -71,3 +71,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 npm install react-icons
 npm install react-route-dom
+
+
+### Mobile
+
+npm install -g expo-cli (Instalação global)
+export init mobile -> select blank
