@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/index.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +14,9 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
+    "celebrate": "^12.0.1",
     "cors": "^2.8.5",
+    "jest": "^25.2.4",
     "knex": "^0.20.13",
     "sqlite3": "^4.1.1"
   }

@@ -80,3 +80,12 @@ Dica: Layout de aplições mobile -> figma.com
 ### Conector backend no mobile
   npm install axios
   npm install intl
+
+
+# Validação
+  npm install celebrate
+
+
+# Tests 
+  npx jest --init
+  npm install jest
