@@ -13,4 +13,3 @@ steps:
   image: node:slim
   commands:
   - pwd
-  - ls -la
