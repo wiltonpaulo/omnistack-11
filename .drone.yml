@@ -8,3 +8,9 @@ steps:
   commands:
   - echo hello
   - echo world
+
+- name: golang
+  image: golang
+  commands:
+  - pwd
+  - ls
