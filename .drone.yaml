@@ -1,6 +1,0 @@
-build:
-  image: golang
-  commands:
-  - cd ./go
-  - go build -o hellow
-  - ./hellow
