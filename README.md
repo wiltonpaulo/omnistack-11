@@ -6,9 +6,11 @@ Dica: Anotações https://notion.so
 Dica: Layout de aplições mobile -> figma.com
 
 ### Setup:
-    brew install node
-    brew install yarn
-    brew install npm
+```shell
+brew install node
+brew install yarn
+brew install npm
+```
 
 ### VSCode:
     Extensions:
@@ -80,3 +82,4 @@ Dica: Layout de aplições mobile -> figma.com
 ### Conector backend no mobile
   npm install axios
   npm install intl
+  
