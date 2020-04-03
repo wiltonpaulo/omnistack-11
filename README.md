@@ -1,9 +1,9 @@
 # Semana OmniStack 11
 ### Repo to store files about Omnistack Course
 
-URL: https://rocketseat.com.br/week/aulas/11.0
-Dica: Anotações https://notion.so
-Dica: Layout de aplições mobile -> figma.com
+URL: https://rocketseat.com.br/week/aulas/11.0  
+Dica: Anotações https://notion.so  
+Dica: Layout de aplições mobile -> figma.com  
 
 ### Setup:
 ```shell
